@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0AAAB4F51FB5836B00821912 /* MemoryDay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MemoryDay.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0AAAB4F51FB5836B00821912 /* MemoryDays.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MemoryDays.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AAAB4F81FB5836B00821912 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0AAAB4FA1FB5836B00821912 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0AAAB4FD1FB5836B00821912 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		0AAAB4F61FB5836B00821912 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0AAAB4F51FB5836B00821912 /* MemoryDay.app */,
+				0AAAB4F51FB5836B00821912 /* MemoryDays.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0AAAB4F41FB5836B00821912 /* MemoryDay */ = {
+		0AAAB4F41FB5836B00821912 /* MemoryDays */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0AAAB5071FB5836B00821912 /* Build configuration list for PBXNativeTarget "MemoryDay" */;
+			buildConfigurationList = 0AAAB5071FB5836B00821912 /* Build configuration list for PBXNativeTarget "MemoryDays" */;
 			buildPhases = (
 				0AAAB4F11FB5836B00821912 /* Sources */,
 				0AAAB4F21FB5836B00821912 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = MemoryDay;
+			name = MemoryDays;
 			productName = MemoryDay;
-			productReference = 0AAAB4F51FB5836B00821912 /* MemoryDay.app */;
+			productReference = 0AAAB4F51FB5836B00821912 /* MemoryDays.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0AAAB4F01FB5836B00821912 /* Build configuration list for PBXProject "MemoryDay" */;
+			buildConfigurationList = 0AAAB4F01FB5836B00821912 /* Build configuration list for PBXProject "MemoryDays" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0AAAB4F41FB5836B00821912 /* MemoryDay */,
+				0AAAB4F41FB5836B00821912 /* MemoryDays */,
 			);
 		};
 /* End PBXProject section */
@@ -278,7 +278,7 @@
 				DEVELOPMENT_TEAM = R55KYXU35W;
 				INFOPLIST_FILE = MemoryDay/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = geeku.net.MemoryDay;
+				PRODUCT_BUNDLE_IDENTIFIER = geeku.net.MemoryDays;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -293,7 +293,7 @@
 				DEVELOPMENT_TEAM = R55KYXU35W;
 				INFOPLIST_FILE = MemoryDay/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = geeku.net.MemoryDay;
+				PRODUCT_BUNDLE_IDENTIFIER = geeku.net.MemoryDays;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -303,7 +303,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0AAAB4F01FB5836B00821912 /* Build configuration list for PBXProject "MemoryDay" */ = {
+		0AAAB4F01FB5836B00821912 /* Build configuration list for PBXProject "MemoryDays" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0AAAB5051FB5836B00821912 /* Debug */,
@@ -312,7 +312,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0AAAB5071FB5836B00821912 /* Build configuration list for PBXNativeTarget "MemoryDay" */ = {
+		0AAAB5071FB5836B00821912 /* Build configuration list for PBXNativeTarget "MemoryDays" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0AAAB5081FB5836B00821912 /* Debug */,
